@@ -4,6 +4,6 @@
 </p>
 
 - 👨🏽‍💻  I’m currently working on VST design using C++ and the JUCE framework.
-- 🌱  I’m currently learning C++ and devops. 
+- 🌱  I’m currently learning C++, devops and prompt engineering.  
 - 💬  Ask me about music information retreval, speech detection and room acoustics
 - 📫  How to reach me: 1ciaran.maloy@gmail.com.
