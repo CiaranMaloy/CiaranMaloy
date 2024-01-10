@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/ciaran-maloy/">LinkedIN</a>
 </p>
 
-- 👨🏽‍💻  I’m currently working on VST design using C++ and the JUCE framework.
+- 👨🏽‍💻  I’m currently working on Web Development and Data Engineering.
 - 🌱  I’m currently learning C++, devops and prompt engineering.  
-- 💬  Ask me about music information retreval, speech detection and room acoustics
+- 💬  Ask me about music information retreval, speech detection and statistical analysis
 - 📫  How to reach me: 1ciaran.maloy@gmail.com.
