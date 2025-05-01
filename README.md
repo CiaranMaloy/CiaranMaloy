@@ -3,7 +3,8 @@
   <a href="https://www.linkedin.com/in/ciaran-maloy/">LinkedIN</a>
 </p>
 
-- 👨🏽‍💻  I’m currently working on Web Development and Data Engineering.
-- 🌱  I’m currently learning C++, devops and prompt engineering.  
-- 💬  Ask me about music information retreval, speech detection and statistical analysis
+- 👨🏽‍💻  I’m currently working on Music Denoising using Convolutional Autoencoders.
+- 🌱  I’m currently learning PyTorch, prompt engineering and product design.  
+- 💬  Ask me about music information retreval, speech and signal detection, statistical analysis, digital signal processing, algorithm design and algorithm testing. 
 - 📫  How to reach me: 1ciaran.maloy@gmail.com.
+- 👨🏽‍💻  I work full time at Ultra Maritime as an Analyst
