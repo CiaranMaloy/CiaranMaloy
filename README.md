@@ -1,8 +1,8 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ciaran Maloy</h2>
 
 <p align="center">
-  Audio ML and acoustic signal processing engineer in London.<br>
-  I build from the sensor up: acoustic modelling and DSP through to PyTorch models,<br>
+  Senior Analyst and acoustic signal processing engineer in London.<br>
+  I build from the sensor up: acoustic modelling and DSP through to PyTorch and Sklearn models,<br>
   plus the self-hosted AI agents that build my side projects.
 </p>
 
