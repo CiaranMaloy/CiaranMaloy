@@ -24,7 +24,7 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [calling-card](https://github.com/CiaranMaloy/calling-card) | My personal site: click the sonobuoy and the echoes reveal what I do | JavaScript, canvas |
+| [calling-card](https://github.com/CiaranMaloy/calling-card) | My personal site: click the sonobuoy and the echoes reveal what I do | JavaScript, canvas (private repo) |
 | [Music denoising](https://github.com/CiaranMaloy/REPO-NAME) | U-Net autoencoder with attention, trained on 100 GB+ of audio, evaluated with SDR and SI-SNR | PyTorch |
 | [cook-book](https://github.com/CiaranMaloy/cook-book) | Meal planner and shopping lists, built end to end by my agents; every recipe links to its source | Agent-built web app |
 | [JUCE plugins](https://github.com/CiaranMaloy/REPO-NAME) | A waveshaper plugin, and an open-source compressor fixed to run on Apple Silicon | C++, JUCE |
